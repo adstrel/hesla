@@ -1,5 +1,5 @@
 body {
-	width: 500px;
+    width: 500px;
     margin: auto;
 }
 
@@ -8,7 +8,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-	width: 100%;
+    width: 100%;
     background-color: #333;
 }
 
@@ -30,27 +30,27 @@ li a:hover {
 
 .right
 {
-	float: right;
+    float: right;
 }
 
 footer
 {
-	border-width: 2px 0px 0px 0px;
-	border-style: solid;
-	border-color: black;
+    border-width: 2px 0px 0px 0px;
+    border-style: solid;
+    border-color: black;
 }
 
 .red
 {
-	color: red;
+    color: red;
 }
 
 .yellow
 {
-	color: orange;
+    color: orange;
 }
 
 .green
 {
-	color: green;
+    color: green;
 }
